@@ -1,5 +1,11 @@
-### Hi there 👋
+Moin 👋
 
+Mein Job : pogrammieren
+Mein Hobby : programmieren
+Mein Leben : wer hätts gedacht...programmieren :D
+
+Hier werdet ihr immer mal wieder Projekte finden von kleinen Games bis zu größeren Guides und Patterns.
+Also schaut täglich mal rein;D
 <!--
 **Wolfi1802/Wolfi1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
