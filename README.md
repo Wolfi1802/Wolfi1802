@@ -9,10 +9,6 @@
 <br>
 <p align="center">
   <h1 align="center">
-  ✩Other Projects here✩
-  https://gitlab.kezab.de/Wolfi1802/DiscordBotManager
-    </h1>
-</p>
-<p align="center">
-    <a href="https://github.com/Wolfi1802"><img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfi1802&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    ✩Other Projects here✩ https://gitlab.kezab.de/Wolfi1802/DiscordBotManager
+  </h1>
 </p>
